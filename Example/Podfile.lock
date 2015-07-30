@@ -1,0 +1,14 @@
+PODS:
+  - DYSCategories (0.1.0)
+
+DEPENDENCIES:
+  - DYSCategories (from `../`)
+
+EXTERNAL SOURCES:
+  DYSCategories:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DYSCategories: bb78ddb23d057f7958a21d187aef06f8ce9f5ef3
+
+COCOAPODS: 0.37.2
