@@ -134,6 +134,7 @@
 		D68BD79ACD8D10104EF6F96E /* Pods-DYSCategories_Tests-DYSCategories-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-DYSCategories_Tests-DYSCategories-prefix.pch"; path = "../Pods-DYSCategories_Tests-DYSCategories/Pods-DYSCategories_Tests-DYSCategories-prefix.pch"; sourceTree = "<group>"; };
 		DAC949AB818FC309A26A9A35 /* Pods-DYSCategories_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DYSCategories_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		EA9EA71A1D5229D5249D0CBB /* Pods-DYSCategories_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DYSCategories_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		F747AEC71B6B32C900765546 /* DYSCategoriesInterface.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DYSCategoriesInterface.h; sourceTree = "<group>"; };
 		FB6C3247C2A4FB0CB8EB47F8 /* Pods-DYSCategories_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DYSCategories_Tests.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -210,6 +211,7 @@
 				7A2AE21A40B512E29F18165F /* UIImageView+RoundCorner.m */,
 				4A6F4BEF121DF62AA49482A1 /* UIViewExt.h */,
 				88859A9AE63FFC81B8800F58 /* UIViewExt.m */,
+				F747AEC71B6B32C900765546 /* DYSCategoriesInterface.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
